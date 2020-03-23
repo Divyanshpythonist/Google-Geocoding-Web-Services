@@ -1,0 +1,31 @@
+Enter location: Ann Arbor, MI
+Retrieving http://maps.googleapis.com/maps/api/
+geocode/json?address=Ann+Arbor%2C+MI
+Retrieved 1669 characters
+{
+"status": "OK",
+"results": [ {
+"geometry": {
+"location_type": "APPROXIMATE",
+"location": {
+"lat": 42.2808256,
+"lng": -83.7430378
+}
+},
+"address_components": [ {
+"long_name": "Ann Arbor",
+"types": [
+"locality",
+"political"
+],
+"short_name": "Ann Arbor"
+} ],
+"formatted_address": "Ann Arbor, MI, USA",
+"types": [
+"locality",
+"political"
+] } ] }
+lat 42.2808256 lng -83.7430378
+Ann Arbor, MI, USA
+13.10. APPLICATION 2: TWITTER 165
+Enter location:
