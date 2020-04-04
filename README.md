@@ -1,8 +1,11 @@
 # Google-Geocoding-Web-Services
 
+```
 Geocoding is the process of converting addresses (like "1600 Amphitheatre Parkway, Mountain View, CA") into geographic coordinates (like latitude 37.423021 and longitude -122.083739), which you can use to place markers on a map, or position the map.
 
+
 Reverse geocoding is the process of converting geographic coordinates into a human-readable address.
+```
 
 Google has an excellent web service that allows us to make use of their large
 database of geographic information. We can submit a geographical search string
@@ -26,4 +29,4 @@ the Google geocoding API, and extract information from the returned JSON.
 
 For more details : 
 
-https://developers.google.com/maps/documentation/geocoding/intro
+[Google Developers Geocoding Introduction](https://developers.google.com/maps/documentation/geocoding/intro)
